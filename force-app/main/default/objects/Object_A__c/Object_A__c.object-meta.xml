@@ -53,13 +53,13 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>ReadWrite</externalSharingModel>
-    <label>Object A</label>
+    <label>Object ABC</label>
     <nameField>
         <displayFormat>{0}</displayFormat>
         <label>Object A Name</label>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>As</pluralLabel>
+    <pluralLabel>ABCs</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

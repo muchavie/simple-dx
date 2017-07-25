@@ -2,14 +2,14 @@
     [
         "/Users/pogilvie/Projects/DX/simple/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/pogilvie/Projects/DX/simple/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1501024557000,
             "changeTime": 1501024557000,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/pogilvie/Projects/DX/simple/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/pogilvie/Projects/DX/simple/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1501024557000,
             "changeTime": 1501024557000,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "/Users/pogilvie/Projects/DX/simple/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/DX/simple/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1501025164000,
             "changeTime": 1501025164000,
-            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/DX/simple/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Users/pogilvie/Projects/DX/simple/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 68,
             "modifiedTime": 1501024557000,
             "changeTime": 1501024557000,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "/Users/pogilvie/Projects/DX/simple",
         {
-            "state": "n",
             "sourcePath": "/Users/pogilvie/Projects/DX/simple",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1501024668000,
             "changeTime": 1501024668000,
             "contentHash": "8b83a6fc8ebc85fbcc0a9655c8a88ee3e37f3e95",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -79,127 +79,127 @@
             "sourcePath": "/Users/pogilvie/Projects/DX/simple/force-app/main/default/objects/Object_A__c/Object_A__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 2180,
-            "modifiedTime": 1501025164000,
-            "changeTime": 1501025164000,
-            "contentHash": "4e3a071a9961b7414dc41233f96c88acd7da4f1d"
+            "size": 2184,
+            "modifiedTime": 1501025451000,
+            "changeTime": 1501025451000,
+            "contentHash": "6586928bc15cff8066257d6f9c54545e9bb78a56"
         }
     ],
     [
         "/Users/pogilvie/Projects/DX/simple/force-app/main/default/layouts/Object_A__c-Object A Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/DX/simple/force-app/main/default/layouts/Object_A__c-Object A Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1947,
             "modifiedTime": 1501025164000,
             "changeTime": 1501025164000,
-            "contentHash": "9c9027a587d62cc77ef8c245abaadc3c85d49f9c"
+            "contentHash": "9c9027a587d62cc77ef8c245abaadc3c85d49f9c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/DX/simple/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/DX/simple/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 16541,
             "modifiedTime": 1501025164000,
             "changeTime": 1501025164000,
-            "contentHash": "320465a07d1560d9c57c0c6ee28d9d50679e6577"
+            "contentHash": "320465a07d1560d9c57c0c6ee28d9d50679e6577",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/DX/simple/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/DX/simple/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4321,
             "modifiedTime": 1501025164000,
             "changeTime": 1501025164000,
-            "contentHash": "b44db6cabdd13027c71fe5318c8789c95c9c4bc6"
+            "contentHash": "b44db6cabdd13027c71fe5318c8789c95c9c4bc6",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/DX/simple/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/DX/simple/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3983,
             "modifiedTime": 1501025164000,
             "changeTime": 1501025164000,
-            "contentHash": "42d75c1a23e27899462e1fa130235434ce44b8b0"
+            "contentHash": "42d75c1a23e27899462e1fa130235434ce44b8b0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/DX/simple/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/DX/simple/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3983,
             "modifiedTime": 1501025164000,
             "changeTime": 1501025164000,
-            "contentHash": "42d75c1a23e27899462e1fa130235434ce44b8b0"
+            "contentHash": "42d75c1a23e27899462e1fa130235434ce44b8b0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/DX/simple/force-app/main/default/objects/Object_A__c",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/DX/simple/force-app/main/default/objects/Object_A__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1501025164000,
             "changeTime": 1501025164000,
-            "contentHash": "7747731e0f555f78d43aeca061b54c329baaaa4e"
+            "contentHash": "7747731e0f555f78d43aeca061b54c329baaaa4e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/DX/simple/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/DX/simple/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1501025164000,
             "changeTime": 1501025164000,
-            "contentHash": "946f4222e3bd8b093f264a75697582bd04bf0067"
+            "contentHash": "946f4222e3bd8b093f264a75697582bd04bf0067",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/DX/simple/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/DX/simple/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1501025164000,
             "changeTime": 1501025164000,
-            "contentHash": "154b2eea9f9e7818704ac46288d9ffe1f333a2e6"
+            "contentHash": "154b2eea9f9e7818704ac46288d9ffe1f333a2e6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/pogilvie/Projects/DX/simple/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/pogilvie/Projects/DX/simple/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1501025164000,
             "changeTime": 1501025164000,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
