@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>Peter</application>
+        <default>false</default>
+        <visible>false</visible>
+    </applicationVisibilities>
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
         <field>Object_A__c.Value__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Object_A__c.times2__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
