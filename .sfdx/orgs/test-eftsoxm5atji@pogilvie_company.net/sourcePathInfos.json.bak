@@ -1,0 +1,362 @@
+[
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1501272879000,
+            "changeTime": 1501272879000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1501272879000,
+            "changeTime": 1501272879000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1501274080000,
+            "changeTime": 1501274080000,
+            "contentHash": "7aae00b49cf8d31b5f22727858d39464862e317c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1501275058000,
+            "changeTime": 1501275058000,
+            "contentHash": "b0491b968ae985274dcb4afa1577025599ebc180",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/applications/ABCs.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/applications/ABCs.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 236,
+            "modifiedTime": 1501275058000,
+            "changeTime": 1501275058000,
+            "contentHash": "98a06697868fd23b427d2d9d5a6d79bc200bb228",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/applications/Peter.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/applications/Peter.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 436,
+            "modifiedTime": 1501274080000,
+            "changeTime": 1501274080000,
+            "contentHash": "c27383ab24c237ee8d1068e7d7d47adad4ab06db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1501274080000,
+            "changeTime": 1501274080000,
+            "contentHash": "a00acd16c98590100b06ecb716169dfb94192095",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/flexipages/ABC_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/flexipages/ABC_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 377,
+            "modifiedTime": 1501274080000,
+            "changeTime": 1501274080000,
+            "contentHash": "e86b27cf05d814dd6d30c3871787759f344a40ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1501274080000,
+            "changeTime": 1501274080000,
+            "contentHash": "154b2eea9f9e7818704ac46288d9ffe1f333a2e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/layouts/Object_A__c-Object A Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/layouts/Object_A__c-Object A Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2222,
+            "modifiedTime": 1501274080000,
+            "changeTime": 1501274080000,
+            "contentHash": "72900be04f00348742808308bea97e0670bf8114",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1501272879000,
+            "changeTime": 1501272879000,
+            "contentHash": "946f4222e3bd8b093f264a75697582bd04bf0067",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/objects/Object_A__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/objects/Object_A__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1501272879000,
+            "changeTime": 1501272879000,
+            "contentHash": "05e52310f9516c406536f9686772e06f617c389f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/objects/Object_A__c/Object_A__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/objects/Object_A__c/Object_A__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2184,
+            "modifiedTime": 1501272879000,
+            "changeTime": 1501272879000,
+            "contentHash": "6586928bc15cff8066257d6f9c54545e9bb78a56",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/objects/Object_A__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/objects/Object_A__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1501274080000,
+            "changeTime": 1501274080000,
+            "contentHash": "ee4694e8f625e5fbf9ee1b21691013d50c6db7b3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/objects/Object_A__c/fields/Value__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/objects/Object_A__c/fields/Value__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 384,
+            "modifiedTime": 1501272879000,
+            "changeTime": 1501272879000,
+            "contentHash": "6b9fb0c1616dc6f16f540fa7ab2c4497ea9c8d2b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/objects/Object_A__c/fields/times2__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/objects/Object_A__c/fields/times2__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 483,
+            "modifiedTime": 1501274080000,
+            "changeTime": 1501274080000,
+            "contentHash": "74c2ec524c4a4bbc46e4b99bf3322b7cc0dd4a7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1501275058000,
+            "changeTime": 1501275058000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17561,
+            "modifiedTime": 1501275058000,
+            "changeTime": 1501275058000,
+            "contentHash": "c67b0f880816cab46b0c41ad1be701e10faad16e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4756,
+            "modifiedTime": 1501275058000,
+            "changeTime": 1501275058000,
+            "contentHash": "48601303d6cacb0f1a40b95d58173b57b1ab1668",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4756,
+            "modifiedTime": 1501275058000,
+            "changeTime": 1501275058000,
+            "contentHash": "48601303d6cacb0f1a40b95d58173b57b1ab1668",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5094,
+            "modifiedTime": 1501275058000,
+            "changeTime": 1501275058000,
+            "contentHash": "c39fac26d7ccaa41f054344fa9f63142022fa8e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1501275058000,
+            "changeTime": 1501275058000,
+            "contentHash": "c35d8f5483aef3edd36bbe1b86a641f4fe72d10f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/tabs/Object_A__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx/force-app/main/default/tabs/Object_A__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1501275058000,
+            "changeTime": 1501275058000,
+            "contentHash": "034a036d0c9584f092664a460df877425641571b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Projects/Scratch/simple-dx",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pogilvie/Projects/Scratch/simple-dx",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 306,
+            "modifiedTime": 1501272879000,
+            "changeTime": 1501272879000,
+            "contentHash": "17521049d542c908811ced2559cc62d808560d80",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
